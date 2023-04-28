@@ -1,0 +1,31 @@
+/* start zarf img */
+.zarf-bastani img {
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
+/* end zarf img */
+/* start scop1 */
+.scop1 {
+  position: absolute;
+  width: 30px;
+  height: 27px;
+  border: 2px solid red;
+  background-color: red;
+  border-radius: 20px;
+  top: 37px;
+  left: 30px;
+}
+/* end scop1 */
+/* start scop2 */
+.scop2 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: rgb(19, 194, 57);
+  border: 2px solid rgb(19, 194, 57);
+  border-radius: 100px;
+  top: 34px;
+  left: 50px;
+}
+/* end scop2 */
